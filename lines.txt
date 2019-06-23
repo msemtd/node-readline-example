@@ -1,0 +1,6 @@
+%a b c d e f
+hello
+goodbye
+line ends with spaces  
+whatever
+lastline no eol
